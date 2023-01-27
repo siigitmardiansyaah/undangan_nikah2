@@ -142,7 +142,7 @@ body.rtl .elementor-30850 .elementor-element.elementor-element-74963cc {
   .elementor-repeater-item-3d38b67
   .swiper-slide-bg {
   background-image: url(../images/DPG02600.jpg);
-  background-size: cover;
+  background-size: contain;
 }
 .elementor-30850
   .elementor-element.elementor-element-2611bff
@@ -1267,6 +1267,16 @@ body.rtl
     .elementor-heading-title {
     font-size: 16px;
   }
+
+  .elementor-30850
+  .elementor-element.elementor-element-2611bff
+  .elementor-repeater-item-3d38b67
+  .swiper-slide-bg {
+  background-image: url(../images/DPG02600.jpg);
+  background-size: contain;
+}
+
+  
   .elementor-bc-flex-widget
     .elementor-30850
     .elementor-element.elementor-element-842206a.elementor-column
